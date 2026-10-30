@@ -4,11 +4,11 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ ... ]
-- Mã sinh viên – Lớp: [ ... ]
-- Ngày thực hiện: [ ... ]
-- Link repository: [ ... ]
-- URL website: [ ... ]
+- Họ và tên: [ cao bùi tiến minh ]
+- Mã sinh viên – Lớp: [ K20-02; 2071020130 ]
+- Ngày thực hiện: [ 30/10/2026 ]
+- Link repository: [ ]
+- URL website: [ github.com/tienminhbuicao201-creator/minhcaok20-02/edit/main/AI_log.md ]
 - Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
