@@ -56,7 +56,7 @@
 
 ## 5. Kết luận
 
-- [ ] Đã xử lý được  [ ] Xử lý được một phần  [ ] Chưa xử lý được
+- [đã ] Đã xử lý được 
 - Điều tôi rút ra hoặc việc cần làm tiếp: [ nên hỏi thầy cô khi chưa hiểu bài ]
 
 ---
