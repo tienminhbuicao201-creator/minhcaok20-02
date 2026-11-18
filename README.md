@@ -1,9 +1,12 @@
 # minhcaok20-02
-" bài tập nhập môn khoa học máy - tiến -K20
+" bài tập nhập môn khoa học máy - tiến minh -K20
 ## Sản phẩm này là gì:
   Website giới thiệu bản thân và 3 dự án học tập, dành cho nhà tuyển dụng thực tập.
 ## Demo:
   https://tienminhbuicao201-creator.github.io/minhcaok20-02/
+
+| Mục | Nội dung |
+| **Sản phẩm này là gì?** | Website Portfolio CV cá nhân giới thiệu bản thân, kỹ năng và các dự án học tập, được thiết kế dành cho sinh viên năm nhất ngành Công nghệ Thông tin.  
 ## Tính năng:
   Bấm Dự án để xem 3 dự án, mỗi dự án có ảnh và liên kết.
 ## Cách mở: 
