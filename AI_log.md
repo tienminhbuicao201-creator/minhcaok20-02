@@ -4,7 +4,7 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ cao bùi tiến minh ]
+- Họ và tên: [ ]
 - Mã sinh viên – Lớp: [ K20-02; 2071020130 ]
 - Ngày thực hiện: [ 30/10/2026 ]
 - Link repository: https://github.com/tienminhbuicao201-creator/minhcaok20-02/edit/main/AI_log.md
